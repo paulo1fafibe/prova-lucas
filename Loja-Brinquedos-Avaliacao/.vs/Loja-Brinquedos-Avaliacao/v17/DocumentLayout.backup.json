@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\loja-brinquedos-avaliacao\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\views\\frmtelavisubrinquedos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:views\\frmtelavisubrinquedos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\views\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:views\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\models\\brinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:models\\brinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\views\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:views\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\controllers\\controllerbrinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:controllers\\controllerbrinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\controllers\\controllerproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:controllers\\controllerproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\controllers\\controllerfabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:controllers\\controllerfabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\views\\frmtelavisubrinquedos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C12A3B-64CC-49CF-A8D4-9CFE6C7ED26A}|Loja-Brinquedos-Avaliacao.csproj|solutionrelative:views\\frmtelavisubrinquedos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Views\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "Views\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:37:33.813Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmCadastro.cs",
+              "RelativeDocumentMoniker": "Views\\frmCadastro.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmCadastro.cs",
+              "RelativeToolTip": "Views\\frmCadastro.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAjwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:35:42.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTelaVisuBrinquedos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmTelaVisuBrinquedos.cs",
+              "RelativeDocumentMoniker": "Views\\frmTelaVisuBrinquedos.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmTelaVisuBrinquedos.cs [Design]",
+              "RelativeToolTip": "Views\\frmTelaVisuBrinquedos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:57:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brinquedo.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Models\\Brinquedo.cs",
+              "RelativeDocumentMoniker": "Models\\Brinquedo.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Models\\Brinquedo.cs",
+              "RelativeToolTip": "Models\\Brinquedo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:45:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Views\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmPrincipal.cs",
+              "RelativeToolTip": "Views\\frmPrincipal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T00:09:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmCadastro.cs",
+              "RelativeDocumentMoniker": "Views\\frmCadastro.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmCadastro.cs [Design]",
+              "RelativeToolTip": "Views\\frmCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:56:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fabricante.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Models\\Fabricante.cs",
+              "RelativeDocumentMoniker": "Models\\Fabricante.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Models\\Fabricante.cs",
+              "RelativeToolTip": "Models\\Fabricante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:38:55.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:43:06.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControllerBrinquedo.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Controllers\\ControllerBrinquedo.cs",
+              "RelativeDocumentMoniker": "Controllers\\ControllerBrinquedo.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Controllers\\ControllerBrinquedo.cs",
+              "RelativeToolTip": "Controllers\\ControllerBrinquedo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:15:56.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControllerProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Controllers\\ControllerProduto.cs",
+              "RelativeDocumentMoniker": "Controllers\\ControllerProduto.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Controllers\\ControllerProduto.cs",
+              "RelativeToolTip": "Controllers\\ControllerProduto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:16:22.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControllerFabricante.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Controllers\\ControllerFabricante.cs",
+              "RelativeDocumentMoniker": "Controllers\\ControllerFabricante.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Controllers\\ControllerFabricante.cs",
+              "RelativeToolTip": "Controllers\\ControllerFabricante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:16:08.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTelaVisuBrinquedos.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmTelaVisuBrinquedos.cs",
+              "RelativeDocumentMoniker": "Views\\frmTelaVisuBrinquedos.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Loja-Brinquedos-Avaliacao\\Views\\frmTelaVisuBrinquedos.cs",
+              "RelativeToolTip": "Views\\frmTelaVisuBrinquedos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:07:34.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
