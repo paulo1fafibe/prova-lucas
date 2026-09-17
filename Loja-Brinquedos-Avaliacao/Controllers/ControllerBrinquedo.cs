@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Loja_Brinquedos_Avaliacao.Models;
 using static Loja_Brinquedos_Avaliacao.Models.Brinquedo;
-
+//se voce ver isso pleo navegador é pq deu certo
 namespace Loja_Brinquedos_Avaliacao.Controllers
 {
     public class ControllerBrinquedo
