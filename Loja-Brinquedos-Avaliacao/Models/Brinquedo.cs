@@ -39,19 +39,7 @@ namespace Loja_Brinquedos_Avaliacao.Models
     
 }
 //8599619890
-//teste viado
 
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
-//teste viado
+//teste viado 
 
-//teste viado
+//commit na branch 2
