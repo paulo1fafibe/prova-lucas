@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //boa neguin
+
+//teste 2
 namespace Loja_Brinquedos_Avaliacao.Models
 {
     public class Brinquedo : Produto
